@@ -1,10 +1,10 @@
 ### Don't Look Down
 
 -🌱 I’m currently learning ...
-  JavaScript
-  GreenSock
-  Svelte
-  deep diving CSS3
+  - JavaScript
+  - GreenSock
+  - Svelte
+  - and deep diving CSS3
 
 <!--
 **b1m1nd/b1m1nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
