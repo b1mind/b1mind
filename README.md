@@ -1,6 +1,6 @@
 ### Don't Look Down
 
--🌱 I’m currently learning ...
+# 🌱 I’m currently learning ...
   - JavaScript
   - GreenSock
   - Svelte
