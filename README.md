@@ -1,6 +1,6 @@
 # Don't Look Down
 
-### 👨‍🍳 I’m currently playing with ...
+### 👨‍🍳 I’m currently cooking with ...
   - JavaScript
   - GreenSock
   - Svelte
