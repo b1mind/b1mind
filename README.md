@@ -1,7 +1,7 @@
 # Don't Look Down
 
 ### 👨‍🍳 I’m currently cooking with ...
-  - JavaScript
+  - Vanilla JS
   - GreenSock
   - Svelte
 
