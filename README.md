@@ -1,7 +1,7 @@
 # Don't Look Down
 
 ### 👨‍🍳 I’m currently cooking with ...
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=b1m1nd&theme=blue-purple-black)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=b1m1nd&theme=blue-green)
 
 <!--
 **b1m1nd/b1m1nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
