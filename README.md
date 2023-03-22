@@ -2,7 +2,7 @@
 [Portfolio](https://b.1mind.dev)
 
 ### SvelteKit projects
-[Acme](https://mysfits-module3-final.vercel.app/) | [Knitting](https://mysfits-challenge5.vercel.app/)
+[Acme Blog](https://mysfits-module3-final.vercel.app/) | [Knitting Courses](https://b1mind.github.io/knitting-pro/)
 
 ### Svelte projects
 [Reddit Meme](https://b1mind.github.io/reddit-app/) | [Monster Killa](https://b1mind.github.io/monsta-killa/) | [Todo PWA](https://b1mind.github.io/pwa-test/)
